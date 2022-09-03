@@ -36,6 +36,9 @@ _Satelitte View Showing Only Major Earthquakes_
 
 ![image](https://user-images.githubusercontent.com/106293233/188284157-ea03e1bc-3b60-4157-91e0-093316a69489.png)
 
+### Adding Third Map Style - Dark Tile Layer
+
+![image](https://user-images.githubusercontent.com/106293233/188284639-a4cc9bcf-449d-4543-af04-48dd25efa2fb.png)
 
 
 
